@@ -1,0 +1,82 @@
+Export log for : PELT_DRIVE.Rep
+AddingPadStyle (Default)
+AddingPadStyle P:EX157Y157D1261
+AddingPadStyle P:EX60Y60D301
+AddingPadStyle P:RRX157Y157D981
+AddingPadStyle P:EX75Y75D351
+AddingPadStyle P:SX75Y75D351
+AddingPadStyle P:SX59Y59D311
+AddingPadStyle P:EX59Y59D311
+AddingPadStyle EF35X51TOP1
+AddingPadStyle EF31X43TOP1
+AddingPadStyle EF39X39TOP1
+AddingPadStyle EF12X47TOP1
+AddingPadStyle P:EX51Y51D241
+AddingPadStyle P:EX59Y59D351
+AddingPadStyle P:SX59Y59D351
+AddingPadStyle EF39X118TOP1
+AddingPadStyle EF236X236TOP1
+AddingPadStyle EF98X138TOP1
+AddingPadStyle EF59X24TOP1
+AddingPadStyle P:EX75Y75D471
+AddingPadStyle P:SX75Y75D471
+Adding ViaStyle (Default)
+Adding ViaStyle V:EX102Y102D791
+Adding ViaStyle V:EX35Y35D201
+Adding ViaStyle V:EX50Y50D281
+Adding TextStyle (Default)
+Adding TextStyle T:H118W10
+Adding TextStyle T:H31W4
+Adding TextStyle T:H39W4
+Adding TextStyle T:H31W41
+Adding PatternDef PELTIER_1
+Adding PatternDef CONN_2.54_2_1
+Adding PatternDef kren_1
+Adding PatternDef kren_2
+Adding PatternDef Cap_0805_1
+Adding PatternDef Res_0805_1
+Adding PatternDef SOT-23_1
+Adding PatternDef CONN_2.54_4_1
+Adding PatternDef CONN_2.54_6_2_1
+Adding PatternDef LQFP48_1
+Adding PatternDef HC 49S_1
+Adding PatternDef DISP16_2.54_1
+Adding PatternDef CONN_2.54_5_1
+Adding PatternDef TO-252_1
+Adding PatternDef SOT-23_2
+Adding PatternDef TO-252_2
+Adding PatternDef SOT-23_3
+Adding PatternDef TO-252_3
+Adding PatternDef TO-252_4
+Adding PatternDef CONN_2.54_3_1
+Adding PatternDef SOT-23_4
+Adding PatternDef SOT223_1
+Adding PatternDef BUTTON 6x4.5_1
+Adding CompDef PELTIER_1
+Adding CompDef CONN_2.54_2_1
+Adding CompDef kren_1
+Adding CompDef kren_2
+Adding CompDef Cap_0805_1
+Adding CompDef Res_0805_1
+Adding CompDef SOT-23_1
+Adding CompDef CONN_2.54_4_1
+Adding CompDef CONN_2.54_6_2_1
+Adding CompDef LQFP48_1
+Adding CompDef HC 49S_1
+Adding CompDef DISP16_2.54_1
+Adding CompDef CONN_2.54_5_1
+Adding CompDef TO-252_1
+Adding CompDef SOT-23_2
+Adding CompDef TO-252_2
+Adding CompDef SOT-23_3
+Adding CompDef TO-252_3
+Adding CompDef TO-252_4
+Adding CompDef CONN_2.54_3_1
+Adding CompDef SOT-23_4
+Adding CompDef SOT223_1
+Adding CompDef BUTTON 6x4.5_1
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Free Arc Object Found On Layer BottomOverlay.   This may cause problems in PCAD PCB
+ 
+EndLog
